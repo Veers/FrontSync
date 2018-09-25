@@ -1,8 +1,9 @@
-import FormContainer from "./js/components/container/FormContainer";
+import React from 'react'
+import HeaderContainer from "./components/container/HeaderContainer"
 
 const App = () => (
   <div>
-    <FormContainer />
+    <HeaderContainer/>
   </div>
 )
 
